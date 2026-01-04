@@ -35,7 +35,7 @@ Aerial-robot-detection-Yolov11/
 
 ## Requirements
 
-- Python 3.9+
+- Python 3.11.9
 - OpenCV
 - Ultralytics YOLO
 
