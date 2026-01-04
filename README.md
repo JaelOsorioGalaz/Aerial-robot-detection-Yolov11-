@@ -35,11 +35,11 @@ Aerial-robot-detection-Yolov11/
 
 ## Requirements
 
-- Python 3.11.9
+- Python 3.11.8
 - OpenCV
 - Ultralytics YOLO
 
-## 🔮 Future Work
+## Future Work
   - Real-time deployment on UAV
   - Multi-robot tracking
   - Sensor fusion
